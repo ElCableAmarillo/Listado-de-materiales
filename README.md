@@ -5,7 +5,7 @@
 
 
 
-=============
+***
 
 
 
@@ -38,7 +38,7 @@ El kit contiene los siguientes materiales:
 
 
 
-=============
+***
 
 
 
@@ -515,7 +515,7 @@ El panel de control **Picuino PC42** es un componente electrónico que permite a
 
 Puedes encontrar más información del proyecto en la web [http://www.picuino.com/](http://www.picuino.com/)
 
-=============
+***
 
 #### Licencia
 
