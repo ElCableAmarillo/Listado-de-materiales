@@ -67,7 +67,9 @@ El kit contiene los siguientes materiales:
 
 
 
-<br />=============<br />
+<br />
+=============
+<br />
 
 
 
