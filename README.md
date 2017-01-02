@@ -88,7 +88,9 @@ Una **protoboard** es una placa para prototipar circuitos eléctricos conectando
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -107,7 +109,9 @@ Los **latiguillos** son utilizados para conectar entre si los diferentes compone
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -142,7 +146,9 @@ En el kit encontraremos:
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -170,7 +176,9 @@ En el kit encontramos 6 valores distintos de resistencias:
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -190,7 +198,9 @@ Un **diodo** es un componente eléctrico que permite el paso de la corriente en 
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -209,7 +219,9 @@ Un **zumbador** es un componente eléctrico que emite una frecuencia de sonidos 
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -227,7 +239,9 @@ Con un **interruptor** podemos abrir o cerrar el circuito eléctrico accionando 
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -246,7 +260,9 @@ El **TSOP 4838** es un sensor infrarrojos utilizado para recibir la señal desde
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -272,7 +288,9 @@ Con un **display LCD** podemos mostrar por pantalla caracteres alfanuméricos, c
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -292,7 +310,9 @@ El **sensor LDR** es una resistencia sensible a la luz, es decir, cambia el valo
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -313,7 +333,9 @@ Un **potenciómetro** es una resistencia variable mecánica, es decir, podemos r
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -333,7 +355,9 @@ Un **miniservo** es un componente eléctrico similar a un motor capaz de girar u
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -354,7 +378,9 @@ El **motor** genera una velocidad de giro y dirección en el rotor del motor, de
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -376,7 +402,9 @@ El **sensor de temperatura LM35** proporciona una salida de voltaje proporcional
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -398,7 +426,9 @@ El **sensor de temperatura y humedad** integrado se compone de un sensor capacit
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -419,7 +449,9 @@ El **sensor de proximidad HC-SR04** es un sensor ultrasónico capaz de medir dis
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -440,7 +472,9 @@ El **sensor de infrarrojos** es un sensor óptico capaz de detectar colores de o
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -465,7 +499,9 @@ El **giroscopio** es un sensor capaz de medir la velocidad en sus 3 ejes X, Y y 
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -484,7 +520,9 @@ Un **motor paso a paso** es componente similar al motor de corriente continua co
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -502,7 +540,9 @@ El **bluetooth** es un componente con el cual podemos conectar nuestra placa de 
 
 
 
+<br />
 =============
+<br />
 
 
 
@@ -517,7 +557,11 @@ El panel de control **Picuino PC42** es un componente electrónico que permite a
 
 Puedes encontrar más información del proyecto en la web [http://www.picuino.com/](http://www.picuino.com/)
 
+
+
 ***
+
+
 
 #### Licencia
 
