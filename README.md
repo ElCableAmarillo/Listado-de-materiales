@@ -34,7 +34,7 @@ El kit contiene los siguientes materiales:
 - [1 Sensor giroscopio de 3 ejes](#1-sensor-giroscopio-de-3-ejes)
 - [1 Motor paso a paso con controlador](#1-motor-paso-a-paso-con-controlador)
 - [1 Bluetooth Shield HC-06](#1-bluetooth-shield-hc-06)
-- [1 Placa de aprendizaje Picnuino](#1-placa-de-aprendizaje-picnuino)
+- [1 Placa de aprendizaje Picuino](#1-placa-de-aprendizaje-picuino)
 
 
 
@@ -546,7 +546,7 @@ El **bluetooth** es un componente con el cual podemos conectar nuestra placa de 
 
 
 
-## 1 Placa de aprendizaje Picnuino
+## 1 Placa de aprendizaje Picuino
 
 El panel de control **Picuino PC42** es un componente electrónico que permite a una placa Arduino mostrar y recibir información por parte del usuario con luces led, pulsadores, sonidos, etc. Se compone de los siguientes componentes:
 - 6 pulsadores normalmente abierto
