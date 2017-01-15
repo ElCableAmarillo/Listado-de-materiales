@@ -117,7 +117,7 @@ Los **latiguillos** son utilizados para conectar entre si los diferentes compone
 
 ## 3x5 Diodos Led
 
-Un **diodo Led** es un componente eléctrico que emite luz al paso de corriente eléctrica sobre él, desde el polo positivo (ánodo) al polo negativo (cátodo). Por otro lado, nos encontramos con un diodo Led especial de 4 patillas llamado **diodo Led RGB** (en este caso de ánodo común) lo que significa que la patilla más larga corresponde al polo positivo (ánodo).
+Un **diodo Led** es un componente eléctrico que emite luz al paso de corriente eléctrica sobre él, desde el polo positivo (ánodo) al polo negativo (cátodo). También encontramos un diodo Led especial de 4 patillas llamado **diodo Led RGB** (en este caso de ánodo común) lo que significa que la patilla más larga corresponde al polo positivo (ánodo).
 
 En el kit encontraremos:
 - 12 Diodos Led de colores verde, ámbar, rojo y blanco.
