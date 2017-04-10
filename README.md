@@ -46,7 +46,7 @@ El kit contiene los siguientes materiales:
 
 **Arduino** es una plataforma para prototipado de electrónica basada en hardware y software libre, es decir, podemos construir circuitos eléctricos y programarlos.
 
-![Arduino UNO Rev3](Imágenes/Arduino UNO Rev3.png)
+![Arduino UNO Rev3](Imágenes/Arduino-UNO-Rev3.png)
 
 #### *Características*
 
@@ -68,7 +68,7 @@ El kit contiene los siguientes materiales:
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -77,7 +77,7 @@ El kit contiene los siguientes materiales:
 
 Una **protoboard** es una placa para prototipar circuitos eléctricos conectandos en sus orificios sin necesidad de soldar los componentes.
 
-![Protoboard 830 puntos](Imágenes/Protoboard 830 puntos.png)
+![Protoboard 830 puntos](Imágenes/Protoboard-830-puntos.png)
 
 #### *Características*
 
@@ -89,7 +89,7 @@ Una **protoboard** es una placa para prototipar circuitos eléctricos conectando
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -110,7 +110,7 @@ Los **latiguillos** son utilizados para conectar entre si los diferentes compone
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -123,7 +123,7 @@ En el kit encontraremos:
 - 12 Diodos Led de colores verde, ámbar, rojo y blanco.
 - 3 Diodos Led RGB ánodo común.
 
-![Diodos Led](Imágenes/Diodos Led.png)
+![Diodos Led](Imágenes/Diodos-Led.png)
 
 #### *Características*
 
@@ -147,7 +147,7 @@ En el kit encontraremos:
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -177,7 +177,7 @@ En el kit encontramos 6 valores distintos de resistencias:
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -186,7 +186,7 @@ En el kit encontramos 6 valores distintos de resistencias:
 
 Un **diodo** es un componente eléctrico que permite el paso de la corriente en un solo sentido, desde el polo positivo (ánodo) al polo negativo (cátodo).
 
-![Diodo 1N4007](Imágenes/Diodo 1N4007.png)
+![Diodo 1N4007](Imágenes/Diodo-1N4007.png)
 
 #### *Características*
 
@@ -199,7 +199,7 @@ Un **diodo** es un componente eléctrico que permite el paso de la corriente en 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -220,7 +220,7 @@ Un **zumbador** es un componente eléctrico que emite una frecuencia de sonidos 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -229,7 +229,7 @@ Un **zumbador** es un componente eléctrico que emite una frecuencia de sonidos 
 
 Con un **interruptor** podemos abrir o cerrar el circuito eléctrico accionando la palanca.
 
-![Interruptor de palanca](Imágenes/Interruptor de palanca.png)
+![Interruptor de palanca](Imágenes/Interruptor-de-palanca.png)
 
 #### *Características*
 
@@ -240,7 +240,7 @@ Con un **interruptor** podemos abrir o cerrar el circuito eléctrico accionando 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -249,7 +249,7 @@ Con un **interruptor** podemos abrir o cerrar el circuito eléctrico accionando 
 
 El **TSOP 4838** es un sensor infrarrojos utilizado para recibir la señal desde un mando a distancia.
 
-![Sensor TSOP 4838](Imágenes/Sensor TSOP 4838.png)
+![Sensor TSOP 4838](Imágenes/Sensor-TSOP-4838.png)
 
 #### *Características*
 
@@ -261,7 +261,7 @@ El **TSOP 4838** es un sensor infrarrojos utilizado para recibir la señal desde
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -270,7 +270,7 @@ El **TSOP 4838** es un sensor infrarrojos utilizado para recibir la señal desde
 
 Con un **display LCD** podemos mostrar por pantalla caracteres alfanuméricos, como mensajes de texto.
 
-![Display LCD](Imágenes/Display LCD.png)
+![Display LCD](Imágenes/Display-LCD.png)
 
 #### *Características*
 
@@ -289,7 +289,7 @@ Con un **display LCD** podemos mostrar por pantalla caracteres alfanuméricos, c
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -298,7 +298,7 @@ Con un **display LCD** podemos mostrar por pantalla caracteres alfanuméricos, c
 
 El **sensor LDR** es una resistencia sensible a la luz, es decir, cambia el valor de su resistencia según la cantidad de luz que incide sobre él.
 
-![Sensor LDR](Imágenes/Sensor LDR.png)
+![Sensor LDR](Imágenes/Sensor-LDR.png)
 
 #### *Características*
 
@@ -311,7 +311,7 @@ El **sensor LDR** es una resistencia sensible a la luz, es decir, cambia el valo
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -334,7 +334,7 @@ Un **potenciómetro** es una resistencia variable mecánica, es decir, podemos r
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -356,7 +356,7 @@ Un **miniservo** es un componente eléctrico similar a un motor capaz de girar u
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -365,7 +365,7 @@ Un **miniservo** es un componente eléctrico similar a un motor capaz de girar u
 
 El **motor** genera una velocidad de giro y dirección en el rotor del motor, dependiendo de la tensión y polarización del mismo.
 
-![Motor de corriente continua](Imágenes/Motor de corriente continua.png)
+![Motor de corriente continua](Imágenes/Motor-de-corriente-continua.png)
 
 #### *Características*
 
@@ -379,7 +379,7 @@ El **motor** genera una velocidad de giro y dirección en el rotor del motor, de
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -388,7 +388,7 @@ El **motor** genera una velocidad de giro y dirección en el rotor del motor, de
 
 El **sensor de temperatura LM35** proporciona una salida de voltaje proporcional a la temperatura.
 
-![Sensor de temperatura LM35](Imágenes/Sensor de temperatura LM35.png)
+![Sensor de temperatura LM35](Imágenes/Sensor-de-temperatura-LM35.png)
 
 #### *Características*
 
@@ -403,7 +403,7 @@ El **sensor de temperatura LM35** proporciona una salida de voltaje proporcional
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -412,7 +412,7 @@ El **sensor de temperatura LM35** proporciona una salida de voltaje proporcional
 
 El **sensor de temperatura y humedad** integrado se compone de un sensor capacitivo para medir la humedad y un sensor de temperatura.
 
-![Sensor de humedad y temperatura](Imágenes/Sensor de humedad y temperatura.png)
+![Sensor de humedad y temperatura](Imágenes/Sensor-de-humedad-y-temperatura.png)
 
 #### *Características*
 
@@ -427,7 +427,7 @@ El **sensor de temperatura y humedad** integrado se compone de un sensor capacit
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -436,7 +436,7 @@ El **sensor de temperatura y humedad** integrado se compone de un sensor capacit
 
 El **sensor de proximidad HC-SR04** es un sensor ultrasónico capaz de medir distancias pequeñas hasta un obstáculo.
 
-![Sensor de proximidad](Imágenes/Sensor de proximidad.png)
+![Sensor de proximidad](Imágenes/Sensor-de-proximidad.png)
 
 #### *Características*
 
@@ -450,7 +450,7 @@ El **sensor de proximidad HC-SR04** es un sensor ultrasónico capaz de medir dis
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -459,7 +459,7 @@ El **sensor de proximidad HC-SR04** es un sensor ultrasónico capaz de medir dis
 
 El **sensor de infrarrojos** es un sensor óptico capaz de detectar colores de objetos y superficies.
 
-![Sensor infrarrojos](Imágenes/Sensor infrarrojos.png)
+![Sensor infrarrojos](Imágenes/Sensor-infrarrojos.png)
 
 #### *Características*
 
@@ -473,7 +473,7 @@ El **sensor de infrarrojos** es un sensor óptico capaz de detectar colores de o
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -482,7 +482,7 @@ El **sensor de infrarrojos** es un sensor óptico capaz de detectar colores de o
 
 El **giroscopio** es un sensor capaz de medir la velocidad en sus 3 ejes X, Y y Z.
 
-![Sensor giroscopio](Imágenes/Sensor giroscopio.png)
+![Sensor giroscopio](Imágenes/Sensor-giroscopio.png)
 
 #### *Características*
 
@@ -500,7 +500,7 @@ El **giroscopio** es un sensor capaz de medir la velocidad en sus 3 ejes X, Y y 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -509,7 +509,7 @@ El **giroscopio** es un sensor capaz de medir la velocidad en sus 3 ejes X, Y y 
 
 Un **motor paso a paso** es componente similar al motor de corriente continua con la peculiaridad de ser capaz de girar una determinada cantidad de pasos o grados dependiendo de sus entradas.
 
-![Motor paso a paso](Imágenes/Motor paso a paso.png)
+![Motor paso a paso](Imágenes/Motor-paso-a-paso.png)
 
 #### *Características*
 
@@ -521,7 +521,7 @@ Un **motor paso a paso** es componente similar al motor de corriente continua co
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -530,7 +530,7 @@ Un **motor paso a paso** es componente similar al motor de corriente continua co
 
 El **bluetooth** es un componente con el cual podemos conectar nuestra placa de arduino a nuestro smartphone.
 
-![Bluetooth HC-06](Imágenes/Bluetooth HC06.png)
+![Bluetooth HC-06](Imágenes/Bluetooth-HC06.png)
 
 #### *Características*
 
@@ -541,7 +541,7 @@ El **bluetooth** es un componente con el cual podemos conectar nuestra placa de 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
